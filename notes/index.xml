@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Notes on </title>
+    <link>//www.herdagdelen.com/notes/</link>
+    <description>Recent content in Notes on </description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//www.herdagdelen.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The effect of zodiac signs on LLM response diversity</title>
+      <link>//www.herdagdelen.com/notes/persona-prompts-diversity/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//www.herdagdelen.com/notes/persona-prompts-diversity/</guid>
+      <description>&lt;p&gt;Large language models (LLMs) tend to collapse their results into a narrow set of predictable outputs when prompted multiple times with the same question &amp;ndash; a phenomenon known as &lt;em&gt;mode collapse&lt;/em&gt;. As summarized in Lu et al. (2025), Zhang et al. (2025a), Zhang et al. (2025b) and related work, aligned models tend to produce safer but substantially more homogeneous outputs than their base counterparts, with contributing factors ranging from algorithmic constraints in RLHF and single-reward-model optimization to pre-alignment bottlenecks such as SFT overfitting and rigid chat templates.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
