@@ -13,7 +13,8 @@
       <link>//www.herdagdelen.com/notes/persona-prompts-diversity/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
       <guid>//www.herdagdelen.com/notes/persona-prompts-diversity/</guid>
-      <description>&lt;p&gt;Large language models (LLMs) tend to collapse their results into a narrow set of predictable outputs when prompted multiple times with the same question &amp;ndash; a phenomenon known as &lt;em&gt;mode collapse&lt;/em&gt;. As summarized in Lu et al. (2025), Zhang et al. (2025a), Zhang et al. (2025b) and related work, aligned models tend to produce safer but substantially more homogeneous outputs than their base counterparts, with contributing factors ranging from algorithmic constraints in RLHF and single-reward-model optimization to pre-alignment bottlenecks such as SFT overfitting and rigid chat templates.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Large language models tend to collapse into a narrow set of predictable outputs when prompted multiple times with the same question &amp;ndash; a phenomenon known as &lt;em&gt;mode collapse&lt;/em&gt;. This matters for applications like brainstorming and creative writing where we want to sample a range of possibilities.&lt;/p&gt;
+&lt;p&gt;In this note, I share results from a kitchen-table experiment: I prompted Claude models with different zodiac signs and Myers-Briggs personality types to see if persona prompts could increase output diversity. My hypothesis is that these persona types are:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
