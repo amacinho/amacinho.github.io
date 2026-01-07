@@ -4,10 +4,18 @@
     <title>Notes on </title>
     <link>//www.herdagdelen.com/notes/</link>
     <description>Recent content in Notes on </description>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo -- 0.154.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//www.herdagdelen.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pregnancy Timeline Trends</title>
+      <link>//www.herdagdelen.com/notes/pregnancy-timeline-trends/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//www.herdagdelen.com/notes/pregnancy-timeline-trends/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Live demo:&lt;/strong&gt; &lt;a href=&#34;https://pregnancy.herdagdelen.com&#34;&gt;pregnancy.herdagdelen.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is a project that has been on my mind for 14 years, ever since we were expecting our first child in 2012. The idea is to create an interactive tool that allows us to explore what topics expectant parents discuss over the course of a pregnancy. I wanted to see how the emotions, concerns, information needs, and experiences of expecting parents evolve from conception to birth and into the early months of parenthood. The underlying data comes from public pregnancy discussion forums where posts are organized by gestational week.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The effect of zodiac signs on LLM response diversity</title>
       <link>//www.herdagdelen.com/notes/persona-prompts-diversity/</link>
