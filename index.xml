@@ -21,8 +21,11 @@
       <link>//www.herdagdelen.com/notes/persona-prompts-diversity/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
       <guid>//www.herdagdelen.com/notes/persona-prompts-diversity/</guid>
-      <description>&lt;p&gt;Large language models tend to collapse into a narrow set of predictable outputs when prompted multiple times with the same question &amp;ndash; a phenomenon known as &lt;em&gt;mode collapse&lt;/em&gt;. This matters for applications like brainstorming and creative writing where we want to sample a range of possibilities.&lt;/p&gt;
-&lt;p&gt;In this note, I share results from a kitchen-table experiment: I prompted Claude models with different zodiac signs and Myers-Briggs personality types to see if persona prompts could increase output diversity. My hypothesis is that these persona types are:&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;“As a Virgo, my analytical nature compels me to seek empirical evidence rather than celestial correlations.”&lt;/p&gt;
+&lt;p&gt;— &lt;em&gt;Claude Sonnet 4&lt;/em&gt;, when prompted “as a Virgo”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Large language models tend to collapse into a narrow set of predictable outputs when prompted multiple times with the same question &amp;ndash; a phenomenon known as &lt;em&gt;mode collapse&lt;/em&gt;. This matters for applications like brainstorming and creative writing where we want to sample a range of possibilities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Efe</title>
